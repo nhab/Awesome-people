@@ -1,5 +1,5 @@
 # Awesome-people
-List of Awesome people (in github?)
+List of Awesome people 
 
 [Linus Torvalds](https://github.com/torvalds)
 
