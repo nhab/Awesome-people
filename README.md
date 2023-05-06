@@ -6,3 +6,5 @@ List of Awesome people (in github?)
 [Ryan Dahl](https://github.com/ry)
 
 [Satoshi Nakamoto](https://bitcointalk.org/)
+
+[Elan Musk](https://twitter.com/elonmusk)
